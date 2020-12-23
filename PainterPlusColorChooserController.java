@@ -1,4 +1,3 @@
-package painter.app.mod;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.RadioButton;
