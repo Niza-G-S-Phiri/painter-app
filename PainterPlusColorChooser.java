@@ -1,4 +1,3 @@
-package painter.app.mod;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
