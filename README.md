@@ -1,5 +1,5 @@
 # painter-app
-A simple Painter app that allows you to drag the mouse to draw (Exercise 13.3 of Java How To Program, 11ed - Deitel)
+A simple Painter app that allows you to drag the mouse to draw (based on Exercise 13.3 of Java How To Program, 11ed - Deitel)
 
 # How to use( or paint/draw) using this painter app
 put the mouse pointer on the area with a white background and drag the mouse and the drawing will be in the color and size of the pen you have choosen/selected.
